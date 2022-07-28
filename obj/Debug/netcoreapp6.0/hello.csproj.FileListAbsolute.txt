@@ -1,0 +1,15 @@
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.csproj.AssemblyReference.cache
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.AssemblyInfoInputs.cache
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.AssemblyInfo.cs
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.csproj.CoreCompileInputs.cache
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/hello
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/hello.deps.json
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/hello.runtimeconfig.json
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/hello.dll
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/ref/hello.dll
+/home/runner/PracticalPrograming/bin/Debug/netcoreapp6.0/hello.pdb
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.dll
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/ref/hello.dll
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.pdb
+/home/runner/PracticalPrograming/obj/Debug/netcoreapp6.0/hello.genruntimeconfig.cache
