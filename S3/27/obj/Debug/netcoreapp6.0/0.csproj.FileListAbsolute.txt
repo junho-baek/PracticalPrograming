@@ -1,0 +1,15 @@
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/0
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/0.deps.json
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/0.runtimeconfig.json
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/0.dll
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/ref/0.dll
+/home/runner/PracticalPrograming/S3/27/bin/Debug/netcoreapp6.0/0.pdb
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.csproj.AssemblyReference.cache
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.GeneratedMSBuildEditorConfig.editorconfig
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.AssemblyInfoInputs.cache
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.AssemblyInfo.cs
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.csproj.CoreCompileInputs.cache
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.dll
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/ref/0.dll
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.pdb
+/home/runner/PracticalPrograming/S3/27/obj/Debug/netcoreapp6.0/0.genruntimeconfig.cache
